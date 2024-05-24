@@ -45,7 +45,7 @@ local TextLabel = Instance.new("TextLabel")
 
 --Properties:
 
-ScreenGUI.Name = "无极翻译"
+ScreenGUI.Name = "参天翻译"
 ScreenGUI.Parent = game.CoreGui
 ScreenGUI.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
